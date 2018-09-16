@@ -1,0 +1,9 @@
+H:\学习\lock灯\lock灯\bin\Debug\lock灯.exe.config
+H:\学习\lock灯\lock灯\bin\Debug\lock灯.exe
+H:\学习\lock灯\lock灯\bin\Debug\lock灯.pdb
+H:\学习\lock灯\lock灯\obj\Debug\lock灯.Form1.resources
+H:\学习\lock灯\lock灯\obj\Debug\lock灯.Properties.Resources.resources
+H:\学习\lock灯\lock灯\obj\Debug\lock灯.csproj.GenerateResource.Cache
+H:\学习\lock灯\lock灯\obj\Debug\lock灯.exe
+H:\学习\lock灯\lock灯\obj\Debug\lock灯.pdb
+H:\学习\lock灯\lock灯\obj\Debug\lock灯.csprojResolveAssemblyReference.cache
